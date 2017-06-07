@@ -5,6 +5,8 @@
 
 2 - Features:
 - Console Application (Windows)
+- Transactional
+- Not object oriented
 
 3 - Tools:
 - Dev-C++ 5.11
